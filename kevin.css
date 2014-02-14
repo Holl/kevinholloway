@@ -1,0 +1,53 @@
+body {
+	font-family: 'Press Start 2P';
+	color: black;
+}
+
+#kevinjames {
+	font-family: 'Press Start 2P';
+
+}
+
+#holloway {
+	font-family: 'Press Start 2P';
+	font-size: 72px;
+}
+
+a {
+	display: inline;
+	color: black;
+
+}
+
+a:hover {
+	color: #641767;
+}
+
+
+#landingpage {
+	background-color: #E8E8E8;
+}
+
+#infopage{
+	background-color: #641767;
+	width: 100%;
+	height: 100%;
+}
+
+#maincenter {
+	display: table-cell;
+  	vertical-align: middle;
+	margin-top: auto;
+	margin-bottom: auto;
+	position: relative;
+	bottom: 40px;
+}
+
+#centerer {
+	display: table;
+	width: 45%;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
